@@ -1,2 +1,2 @@
 This is menu file
-Menu contains dishes and chefs name
+Menu contains dishes name and chefs name
